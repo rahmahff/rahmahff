@@ -6,7 +6,7 @@ Saya adalah lulusan S1 Program Studi [Teknik Komputer](https://tekkom.upi.edu), 
 
 Saya memiliki pengalaman dalam melakukan analisis data, visualisasi data, hingga pengembangan aplikasi berbasis web dengan memanfaatkan model kecerdasan buatan.<br>
 
-Saya juga memperoleh berbagai sertifikasi meliputi:
+Saya juga memperoleh berbagai pelatihan sertifikasi meliputi:
 1. [Salesforce Talent Accelerator Program](https://drive.google.com/file/d/1KEgGwPkRDUIhV1Q0Cyzd7a3d4EuH7bEl/view?usp=sharing).<br>
 2. [Coding Camp powered by DBS Foundation: Machine Learning Engineer](https://drive.google.com/file/d/1t3dkS3Irf2KUlLnAWaWA3Fg4uFu2J7MN/view?usp=sharing).<br>
 3. [IC3 Digital Literacy Certification (GS6 Level 1)](https://www.credly.com/badges/3de76263-6d61-478d-880c-6f9b550a297a/public_url).<br>
